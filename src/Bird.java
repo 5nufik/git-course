@@ -2,7 +2,7 @@
  * todo Document type Bird
  */
 public class Bird {
-    public void fly() {
-        System.out.println("FLYING");
+    public void say() {
+        System.out.println("Quack-Quack");
     }
 }
