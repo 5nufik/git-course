@@ -1,5 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello git");
+        Dog dog = new Dog();
+        Cat cat = new Cat();
+        Bird bird = new Bird();
+
+        dog.say();
+        cat.say();
+        bird.say();
     }
 }
