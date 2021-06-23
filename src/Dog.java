@@ -3,6 +3,6 @@
  */
 public class Dog implements Animal {
     public void say() {
-        System.out.println("Bow-Wow");
+        System.out.println("bow-wow");
     }
 }
